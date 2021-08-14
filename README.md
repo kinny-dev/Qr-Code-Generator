@@ -5,7 +5,7 @@ Discord Image Token Grabber
 A Python script that automatically generates a Nitro scam QR code and grabs the Discord token when scanned. This tool demonstrates how people can trick others
 into scanning their Discord login QR Code, and gain access to their account. Use for Educational Purposes only.
 
-![img1](https://images-ext-1.discordapp.net/external/OOqkK4gbNBz3Ir478KHU43CZT9JDGFQDqSCL8crnobQ/https/cdn.tesla.sexy/21bf42cd-7bae-4505-8bae-35da33d64ae9/6197d7a363.png)
+![img1](https://images-ext-2.discordapp.net/external/IaPERJO86kX1THyf7bxZCz9lHxhCliGdBQwv8sg1A0w/https/cdn.tesla.sexy/21bf42cd-7bae-4505-8bae-35da33d64ae9/0b6bd27086.png)
 
 
 ## Usage
